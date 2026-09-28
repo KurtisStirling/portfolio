@@ -39,7 +39,7 @@ I have this Excel template saved so I can reuse it in any organisation.
 
 ![Untitled](Untitled%202.png)
 
-### **Issues type use guide:**
+### Issues type use guide:
 
 | Issue type | Use |
 | --- | --- |
@@ -49,7 +49,7 @@ I have this Excel template saved so I can reuse it in any organisation.
 | **Task** | Work we have to do that doesn’t change production code. If it does change production in some way, make a Story and describe the user benefit; if there is no benefit, don’t do it. |
 | **Test Case** | Used by TAs and linked to associated Story |
 
-### **Field use guide**
+### Field use guide
 
 | Field | Use |
 | --- | --- |

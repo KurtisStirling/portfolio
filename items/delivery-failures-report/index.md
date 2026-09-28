@@ -11,7 +11,7 @@ I walked leadership through this document
 
 ---
 
-### **Things devs are struggling with:**
+## Things devs are struggling with:
 
 - No overview of what the tickets are supposed to do (what outcome are we trying to achieve)
 - No documentation of process or design
@@ -19,9 +19,9 @@ I walked leadership through this document
 - We need a clear idea of who will be working on what work (people would fly in to work collab in person if they had that)
 - Need to assign to devs BEFORE refinement. Currently they aren’t focused in refinement because aren’t sure if they will be the one doing it or not anyway, and have so much other work to do it isn’t feasible to pay full attention to everything.
 
-# Our goals and problems
+## Our goals and problems
 
-## **Goal: S**atisfy the business and its users.
+### Goal: Satisfy the business and its users.
 
 1. Deliver as much value as soon as possible, to meet/exceed expectations and reduce the cost incurred of waiting for delayed solutions.
 
@@ -29,14 +29,14 @@ I walked leadership through this document
 
 1. Deliver when we say we will, so that business and users can plan accordingly.
 
-## How do we measure success?
+### How do we measure success?
 
 > Answer: …
 > 
 
-## **Problem 1: Tranche 5 has missed it’s deadline by 4+ months**
+### Problem 1: Tranche 5 has missed it’s deadline by 4+ months
 
-## What’s were the causal factors? (and are they still in play?)
+### What’s were the causal factors? (and are they still in play?)
 
 > Easy answer:
 > 
@@ -46,13 +46,13 @@ I walked leadership through this document
 > 
 - “The system needs reconfiguration.”
 
-## System thinking:
+### System thinking:
 
 ![](image2.png)
 
-# System configuration issues
+## System configuration issues
 
-## Siloed discovery and ticket creation
+### Siloed discovery and ticket creation
 
 1. **Situation**
     
@@ -106,7 +106,7 @@ I walked leadership through this document
 > 
 > 
 
-## Workflow map (current state)
+### Workflow map (current state)
 
 ![](image6.png)
 
@@ -179,9 +179,7 @@ Don McGreal and Ralph Jocham
         - the use of visual aids
     2. **Answer**..
 
-## 
-
-## No dedicated decision-maker
+### No dedicated decision-maker
 
 1. Situation:
     
@@ -204,7 +202,7 @@ Don McGreal and Ralph Jocham
     …
     
 
-## No sense of purpose: no vision or desired outcomes articulated, and no feedback given as to the difference we are making.
+### No sense of purpose: no vision or desired outcomes articulated, and no feedback given as to the difference we are making.
 
 1. **Situation**:
     
@@ -257,7 +255,7 @@ Don McGreal and Ralph Jocham
     …
     
 
-## The team is 3x larger than optimal.
+### The team is 3x larger than optimal.
 
 1. **Situation**:
     
