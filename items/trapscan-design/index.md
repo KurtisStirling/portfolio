@@ -45,7 +45,7 @@ This was a huge pain point discovered: people just won’t login no matter how e
 
 As a bonus, it means anyone out for a walk who sees something in a trap, can scan the card to let the project manager know!
 
-![_Anyone can scan_ Unauthenticated Scan flow.png](_Anyone_can_scan__Unauthenticated_Scan_flow.png)
+![_Anyone can scan_ Unauthenticated Scan flow.png](anyone-can-scan.png)
 
 ### Login flow:
 
