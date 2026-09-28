@@ -9,10 +9,6 @@ title: "TrapScan Branding and UI Design (mobile)"
 
 ![image.png](image.png)
 
-### TrapScan Logo
-
-![image.png](b5a11ad9-9140-4824-b802-9a73908e6e65.png)
-
 ### Use case and QR Card design:
 
 New Zealand’s unique native birds and lizards are rapidly becoming extinct due to introduced mammals decimating them. Thousands of volunteers across the country trap these rats, mice, stoats and weasles in hopes of giving the defenseless native species a chance at life. Managing the work and reporting is a headache, so TrapScan makes it easy with unique QR cards and a user-friendly web-app that can be used without an account

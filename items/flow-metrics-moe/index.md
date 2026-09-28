@@ -44,22 +44,20 @@ One per week I would export a Jira JQL filter and drop the CSV into this Excel s
 
 ### **Issues type use guide:**
 
-| **Epic** | **Deliverable (Temporary item): Large change to production and describes user benefit** |
+| Issue type | Use |
 | --- | --- |
+| **Epic** | Deliverable (Temporary item): Large change to production and describes user benefit |
 | **Story** | Deliverable (Temporary item): Small change to production and describes user benefit |
 | **Bug** | Raising issues found in testing with functionality added/changed |
-| **Task** | Work we have to do that doesn’t change production code 
- (if it does change production in some way, make a Story and describe the user benefit - if no benefit, then don’t do) |
+| **Task** | Work we have to do that doesn’t change production code. If it does change production in some way, make a Story and describe the user benefit; if there is no benefit, don’t do it. |
 | **Test Case** | Used by TAs and linked to associated Story |
 
 ### **Field use guide**
 
-| **Component**
-**** | **use to track Themes or System areas** |
+| Field | Use |
 | --- | --- |
-| **Fix versions**
-**** | Used to track releases and generate release paperwork
-Tag current release if we know it’s going to be in it, tag a future release if we know it’s not going to be in the current one (so we can filter to what is definitely in/out) |
+| **Component** | Use to track Themes or System areas |
+| **Fix versions** | Used to track releases and generate release paperwork. Tag the current release if we know it’s going to be in it; tag a future release if we know it’s not going to be in the current one (so we can filter to what is definitely in/out). |
 | **Epic Link** | To group constituent Stories |
 | **Label** | the one free-form field we use to organise ad-hoc - opposed to having to adhere to a single purpose/convention |
 | **PWK Software** | What software or team the item belong to, e.g. ArcGIS or Mulesoft |
