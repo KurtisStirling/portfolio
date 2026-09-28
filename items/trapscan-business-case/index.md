@@ -23,7 +23,7 @@ New Zealand’s predator-free movement has over **200,000 volunteers** (Morton, 
 
 Most investment to date has focused on trap development, with almost none allocated to project and data management tools, or supporting recruitment and engagement of volunteers.
 
-→ **TrapScan is **that investment** in data and project management ****
+→ **TrapScan is that investment in data and project management**
 
 Trap.NZ is the only other existing solution, but is designed for advanced users and large rural traplines. Trap.NZ’s features are not suited for backyard trapping communities.
 
@@ -55,14 +55,7 @@ TrapScan has interest from all over the country, but currently only serves 0.1% 
 
 ![Stats mockup.JPG](dff32553-7b69-49cd-b512-bf2d2c7ff010.png)
 
-<aside>
-<img src="https://www.notion.so/icons/playback-play_pink.svg" alt="https://www.notion.so/icons/playback-play_pink.svg" width="40px" />
-
-A short Product Overview video is available by searching for ‘**TrapScan Promo video’** on **YouTube**
-
-Link: [https://www.youtube.com/watch?v=Gk8rcPV3u6Q](https://www.youtube.com/watch?v=Gk8rcPV3u6Q) 
-
-</aside>
+A short [TrapScan product overview video](https://www.youtube.com/watch?v=Gk8rcPV3u6Q) is available on YouTube.
 
 ## Extension of Trap.NZ — not a direct competitor.
 
@@ -78,48 +71,25 @@ This ensures all trapping data ends up in the same place, regardless of which ap
 
 ## User Testimonials
 
-<aside>
-<img src="https://www.notion.so/icons/user_green.svg" alt="https://www.notion.so/icons/user_green.svg" width="40px" />
+> Current setups are a lot of faff for backyard trappers. I want people getting more involved, recording the data and being more active with each other and in their group and wider community. That's why we want TrapScan.
+>
+> — **Biosecurity Lead, Wellington City Council**
 
-*Current setups are a lot of faff for backyard trappers. I want people getting more involved, recording the data and being more active with each other and in their group and wider community. That's why we want TrapScan.*
+> TrapScan is a gamechanger! Now I'm going to be able to actually manage the 400 traps and members I have out in this suburb, especially when users can start to request and return traps.
+>
+> — **Khandallah Project Manager**
 
-**Biosecurity Lead, Wellington City Council**
+> I’ve got a science research background so am suitably appalled others are totally ok with under-reporting & big data gaps. My team is on board with QR codes because they’ve all struggled to use [Trap.nz](http://trap.nz/) for their own home traps!
+>
+> — **Tamahere Project Manager**
 
-</aside>
+> It's not just "nice" to see accurate data of your progress, it's important otherwise people get dis-empowered, so it’s great to see TrapScan displays project results graphs directly to our volunteers.
+>
+> — **Wellington Botanic Gardens Project Manager**
 
-<aside>
-<img src="https://www.notion.so/icons/user_green.svg" alt="https://www.notion.so/icons/user_green.svg" width="40px" />
-
-*TrapScan is a gamechanger! Now I'm going to be able to actually manage the 400 traps and members I have out in this suburb, especially when users can start to request and return traps.* 
-
-**Khandallah Project Manager**
-
-</aside>
-
-<aside>
-<img src="https://www.notion.so/icons/user_green.svg" alt="https://www.notion.so/icons/user_green.svg" width="40px" />
-
-*I’ve got a science research background so am suitably appalled others are totally ok with under-reporting & big data gaps. My team is on board with QR codes because they’ve all struggled to use [Trap.nz](http://trap.nz/) for their own home traps! *****
-
-**Tamahere Project Manager**
-
-</aside>
-
-<aside>
-<img src="https://www.notion.so/icons/user_green.svg" alt="https://www.notion.so/icons/user_green.svg" width="40px" />
-
-*It's not just "nice" to see accurate data of your progress, it's important otherwise people get dis-empowered, so it’s great to see TrapScan displays project results graphs directly to our volunteers.*
- **Wellington Botanic Gardens Project Manager**
-
-</aside>
-
-<aside>
-<img src="https://www.notion.so/icons/user_green.svg" alt="https://www.notion.so/icons/user_green.svg" width="40px" />
-
-*See, I like saving all of my checks now - even the ones with nothing caught, because it's so easy and satisfying when you see the "Success" screen at the end. I honestly believe this will make a huge difference to the country.*
-**Kelburn Project Manager**
-
-</aside>
+> See, I like saving all of my checks now - even the ones with nothing caught, because it's so easy and satisfying when you see the "Success" screen at the end. I honestly believe this will make a huge difference to the country.
+>
+> — **Kelburn Project Manager**
 
 ## Two-person team
 

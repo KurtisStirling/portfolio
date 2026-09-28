@@ -33,10 +33,7 @@ One per week I would export a Jira JQL filter and drop the CSV into this Excel s
 
 ![Untitled](Untitled%201.png)
 
-<aside>
-<img src="https://www.notion.so/icons/info-alternate_green.svg" alt="https://www.notion.so/icons/info-alternate_green.svg" width="40px" /> I have this excel template saved so can reuse it in any organisation
-
-</aside>
+I have this Excel template saved so I can reuse it in any organisation.
 
 ### Training material: Status groups, “In progress” vs “waiting” statuses and Flag use
 

@@ -13,7 +13,7 @@
     </header>
     <main class="content">
       {% unless page.url == '/' %}<nav class="breadcrumb" aria-label="Breadcrumb"><a href="{{ '/' | relative_url }}">← All work</a></nav>{% endunless %}
-      {{ content }}
+      {{ content | replace: '<img ', '<img loading="lazy" decoding="async" ' }}
     </main>
     <footer class="site-footer">Kurtis Papple · <a href="{{ '/' | relative_url }}">Portfolio</a></footer>
   </body>

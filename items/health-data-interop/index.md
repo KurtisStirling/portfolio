@@ -7,13 +7,7 @@ title: "Championing health data interoperability: My journey at Health NZ"
 
 2023-2024
 
-<aside>
-<img src="https://www.notion.so/icons/arrow-northeast_gray.svg" alt="https://www.notion.so/icons/arrow-northeast_gray.svg" width="40px" />
-
-This article is also live on Linkedin: 
-[https://www.linkedin.com/pulse/championing-health-data-interoperability-my-journey-nz-kurtis-papple-mwglc/](https://www.linkedin.com/pulse/championing-health-data-interoperability-my-journey-nz-kurtis-papple-mwglc/)
-
-</aside>
+This article is also [live on LinkedIn](https://www.linkedin.com/pulse/championing-health-data-interoperability-my-journey-nz-kurtis-papple-mwglc/).
 
 Data standards, “headless”/data-centric architecture, loosely-coupled architecture, user interface design, and reusable component libraries are all powerful and important concepts I’ve been long familiar with. But over the past year they have truly resonated with me as I’ve been immersed the world of interoperable healthcare data. Thanks to the integration team at Health paving the way, I quickly recognised that adopting a national data standard was the right direction for New Zealand to go. So I’ve been using and championing Health NZ’s FHIR implementation ever since.
 
