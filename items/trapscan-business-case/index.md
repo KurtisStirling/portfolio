@@ -124,7 +124,7 @@ In addition to keeping the product operational, this option bootstraps adoption 
 
 ### 3. National Backbone ($72,260)
 
-Become NZ’s go-to conservation tool by supercharging development; there are over 20 good ideas to improve TrapScan (Appendix B), many of which could have a profound impact on the ultimate goal of protecting our native species. This option allows us to turn some of these ideas into reality for all of our incredibly self-less volunteers across the country.
+Become NZ’s go-to conservation tool by supercharging development; there are over 20 good ideas to improve TrapScan (Appendix A), many of which could have a profound impact on the ultimate goal of protecting our native species. This option allows us to turn some of these ideas into reality for all of our incredibly self-less volunteers across the country.
 
 | Everything from option 1 and 2 | $38,060 |
 | --- | --- |
@@ -136,45 +136,7 @@ Your investment is greatly appreciated and ensures TrapScan’s survival, scalab
 
 ---
 
-## Appendix A: Springtimesoft letter of support for TrapScan
-
-10 June 2025
-
-TrapScan
-
-By email: kurtis@trapscan.app
-
-Attention: Kurtis Papple
-
-![image.webp](image%201.webp)
-
-Springtimesoft Consulting Ltd
-PO Box (redacted)
-New Zealand
-
-Dear Kurtis,
-
-**Letter of technical support**
-
-We understand that TrapScan is looking to continue to develop your app/product including applying important software updates and prioritised feature development. Our experience with the technical stack in use means we have the capability to support TrapScan with product development.
-
-Following our meetings and code review we have a clear understanding of both what is required technically and TrapScan’s feature roadmap. Estimates for these activities are included below:
-
-| **Activity** | **Estimate** |
-| --- | --- |
-| Initial major software updates | $8,000 - $10,000 + GST |
-| Monthly minor software updates and patching | $450 + GST per month |
-| Feature development | To be confirmed following major software upgrades. |
-
-This project has our full support and we look forward to working with you.  If you require anything further please feel free to contact me.
-
-Kind regards,
-
-Perrin Reilly, Director, Springtimesoft Consulting
-
----
-
-## Appendix B: TrapScan Improvement Proposals
+## Appendix A: TrapScan Improvement Proposals
 
 | **#** | **Feature Name** | **Description** | **Size** | **Benefit / Outcome** |
 | --- | --- | --- | --- | --- |
@@ -203,7 +165,7 @@ Perrin Reilly, Director, Springtimesoft Consulting
 
 ---
 
-## Appendix C: Previous Investments TrapScan has received
+## Appendix B: Previous Investments TrapScan has received
 
 | 2021 | Predator Free Wellington | $5000 |
 | --- | --- | --- |
@@ -211,16 +173,6 @@ Perrin Reilly, Director, Springtimesoft Consulting
 | 2022 | Wellington City Council | $5000 |
 | 2022 | Kelburn Conservation Network | $2500 |
 | 2023 | Clare NZ | $10,000 |
-
----
-
-## Appendix D: Jobs of a trapping Project Manager
-
-Managing backyard trapping projects requires far more work to be successful than just setting traps. TrapScan aims to help project managers to do their jobs easily.
-
-Below is an overview of all the types of work they do:
-
-![image.webp](image%202.webp)
 
 ---
 
