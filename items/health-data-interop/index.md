@@ -129,9 +129,7 @@ Now Health NZ has a beautiful clinical application that is interoperable out of 
 
 As Health NZ continues to slow down and reassess their direction and pace, I have become surplus to requirements. The best strategy is not always to build, build, build. Sometimes you need to take a collective step back to realign and to design a smarter, more sustainable way forward. For that I commend Health NZ for contracting despite it resulting in the end of my contracting. My only critique would be for them to have started earlier, and to do it more smoothly over time to avoid the disrupting momentum and losing IP, but hey what to I know? I’m just a product guy. 😅
 
-Thanks for reading and feel free to reach out if you have any questions. I'll be enjoying some time off with this little monster for the time being.
-
-![PXL_20240706_003021188.MP~2.jpg](PXL_20240706_003021188.MP2.jpg)
+Thanks for reading and feel free to reach out if you have any questions.
 
 Cheers,
 
