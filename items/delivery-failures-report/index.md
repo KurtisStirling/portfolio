@@ -25,7 +25,7 @@ I walked leadership through this document
 
 1. Deliver as much value as soon as possible, to meet/exceed expectations and reduce the cost incurred of waiting for delayed solutions.
 
-![](image1.png)
+![](image1.webp)
 
 1. Deliver when we say we will, so that business and users can plan accordingly.
 
@@ -48,7 +48,7 @@ I walked leadership through this document
 
 ### System thinking:
 
-![](image2.png)
+![](image2.webp)
 
 ## System configuration issues
 
@@ -74,14 +74,14 @@ I walked leadership through this document
 > We spend 22% of our time on rework
 > 
 > 
-> ![](image3.png)
+> ![](image3.webp)
 > 
 > There is a risk that if technical debt continues to accumulate, it will compound over time, and we will grind to a halt more frequently like we did with Release 12.
 > 
 
 **The causes and cycle of high rework, and the resulting risk of attrition**:
 
-![](image4.png)
+![](image4.webp)
 
 1. **Complication 3**
     
@@ -101,24 +101,24 @@ I walked leadership through this document
 
 **That’s 19 items per person.**
 
-![](image5.png)
+![](image5.webp)
 
 > 
 > 
 
 ### Workflow map (current state)
 
-![](image6.png)
+![](image6.webp)
 
 **Hand-off**
 
 1. **Product-market fit.**
 
-![](image7.png)
+![](image7.webp)
 
 1. **Workflow map (proposed future state)**
 
-![](image8.png)
+![](image8.webp)
 
 **Solution focused**
 
@@ -134,7 +134,7 @@ I walked leadership through this document
 
 1. **Three Cs**
 
-![](image9.jpeg)
+![](image9.webp)
 
 **The Professional Product Owner: Leveraging Scrum as a Competitive Advantage**
 
@@ -142,7 +142,7 @@ Don McGreal and Ralph Jocham
 
 1. **Actor requirements of a work item (product backlog item):**
 
-![](image10.jpeg)
+![](image10.webp)
 
 1. **Summary**
     - Goal is to increase the volume of value delivered to customers.
@@ -232,7 +232,7 @@ Don McGreal and Ralph Jocham
     
 6. **Organisational Performance impact map**
 
-![](image11.png)
+![](image11.webp)
 
 **Accelerate: The Science of Lean Software and DevOps**Nicole Forsgren, PhD, Jez Humble, and Gene Kim
 
@@ -266,7 +266,7 @@ Don McGreal and Ralph Jocham
     People don’t talk in stand-up, making it more of a formality than something than a collaboration session that adds real value:
     
 
-![](image12.png)
+![](image12.webp)
 
 1. **Complication** **2**:
     
@@ -279,12 +279,12 @@ Don McGreal and Ralph Jocham
     Performance of a team degrades exponentially over 8 people:
     
 
-![](image13.png)
+![](image13.webp)
 
 > 
 > 
 
-![](image15.png)
+![](image15.webp)
 
 1. **Question**:
     

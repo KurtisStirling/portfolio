@@ -15,36 +15,36 @@ I was Senior PO and visionary for this product - coming up with the idea, articu
 
 ### Landing page
 
-![Landing Page.png](Landing_Page.png)
+![Landing Page.webp](Landing_Page.webp)
 
 ### Patient Lookup
 
-![NHI Lookup.png](NHI_Lookup.png)
+![NHI Lookup.webp](NHI_Lookup.webp)
 
 ### Patient Search
 
-![Patient Search.png](Patient_Search.png)
+![Patient Search.webp](Patient_Search.webp)
 
 ### Patient Summary
 
-![Patient Overview.png](Patient_Overview.png)
+![Patient Overview.webp](Patient_Overview.webp)
 
 ### Care Plans
 
-![Care Plans.png](Care_Plans.png)
+![Care Plans.webp](Care_Plans.webp)
 
-![View Care Plan.png](View_Care_Plan.png)
+![View Care Plan.webp](View_Care_Plan.webp)
 
 ### Embedded FHIR Questionnaire
 
-![Embeded web forms.png](Embeded_web_forms.png)
+![Embeded web forms.webp](Embeded_web_forms.webp)
 
 ### Test Results
 
-![Form Submissions.png](Form_Submissions.png)
+![Form Submissions.webp](Form_Submissions.webp)
 
-![View Form Record.png](View_Form_Record.png)
+![View Form Record.webp](View_Form_Record.webp)
 
 ### Observations
 
-![Observations.png](Observations.png)
+![Observations.webp](Observations.webp)

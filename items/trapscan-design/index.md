@@ -7,7 +7,7 @@ title: "TrapScan Branding and UI Design (mobile)"
 
 2022-2023
 
-![image.png](image.png)
+![image.webp](image.webp)
 
 ### Use case and QR Card design:
 
@@ -17,7 +17,7 @@ Read about TrapScan here:
 
 [TrapScan Business Case: Empowering Volunteers for a Predator-Free New Zealand](../trapscan-business-case/)
 
-![image.png](fcd12f60-723c-480f-be0e-f1ce5a35c38a.png)
+![image.webp](fcd12f60-723c-480f-be0e-f1ce5a35c38a.webp)
 
 ### Scan flow:
 
@@ -25,15 +25,15 @@ This step form is modeled off real conversations trappers have with each other w
 
 No long forms, no scrolling, no typing, no popups. Just large, easy-to-press buttons and only four screen taps to record a trap check (compared to competitor [trap.nz](http://trap.nz/) that requires 10+ screen taps to capture the same amount of data).
 
-![Scan flow.png](Scan_flow.png)
+![Scan flow.webp](Scan_flow.webp)
 
 ### Data capture model:
 
-![Scan Flow data capture model.png](Scan_Flow_data_capture_model.png)
+![Scan Flow data capture model.webp](Scan_Flow_data_capture_model.webp)
 
 ### Manual QR ID entry:
 
-![Manual ID Entry.png](Manual_ID_Entry.png)
+![Manual ID Entry.webp](Manual_ID_Entry.webp)
 
 ### “Anyone can scan” (no login required):
 
@@ -41,36 +41,36 @@ This was a huge pain point discovered: people just won’t login no matter how e
 
 As a bonus, it means anyone out for a walk who sees something in a trap, can scan the card to let the project manager know!
 
-![_Anyone can scan_ Unauthenticated Scan flow.png](anyone-can-scan.png)
+![_Anyone can scan_ Unauthenticated Scan flow.webp](anyone-can-scan.webp)
 
 ### Login flow:
 
-![Login.png](Login.png)
+![Login.webp](Login.webp)
 
 ### Delete a Trap that has a QR attached (exception handling):
 
-![Delete trap with QR warning.png](Delete_trap_with_QR_warning.png)
+![Delete trap with QR warning.webp](Delete_trap_with_QR_warning.webp)
 
 ### Uninstall QR card:
 
-![Uninstall QR.png](Uninstall_QR.png)
+![Uninstall QR.webp](Uninstall_QR.webp)
 
 ### View and Manage a trapping Project:
 
-![View Projects (real-time stats, join and manage).png](view-projects.png)
+![View Projects (real-time stats, join and manage).webp](view-projects.webp)
 
 ### Create a trapping Project:
 
-![Project Creation.png](Project_Creation.png)
+![Project Creation.webp](Project_Creation.webp)
 
 ### Join TrapScan (membership payment flow):
 
-![Join TrapScan as a manager.png](Join_TrapScan_as_a_manager.png)
+![Join TrapScan as a manager.webp](Join_TrapScan_as_a_manager.webp)
 
 ### Trap Line check-in and bulk-complete:
 
-![Trapline checkin.jpg](Trapline_checkin.jpg)
+![Trapline checkin.webp](Trapline_checkin.webp)
 
 ### Scan History:
 
-![Scan History.png](Scan_History.png)
+![Scan History.webp](Scan_History.webp)

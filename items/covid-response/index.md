@@ -15,21 +15,21 @@ I was then pulled into many second-order problems, mostly helping bring order, p
 
 unexpected legal change and production release required on average of once every 6 days:
 
-![Untitled](Untitled.png)
+![Untitled](Untitled.webp)
 
 example of a point in time “What rules apply to what combination, when?” complexity:
 
-![Untitled](Untitled%201.png)
+![Untitled](Untitled%201.webp)
 
 ### Exemptions reusable application process created on the fly
 
-![Untitled](Untitled%202.png)
+![Untitled](Untitled%202.webp)
 
 ### Vessel exemption to enter New Zealand
 
 webform metadata requirements clearly articulated:
 
-![Untitled](Untitled%203.png)
+![Untitled](Untitled%203.webp)
 
 ### Distribution of Rapid Antigen Tests across the country for arrival of first shipment
 
@@ -37,20 +37,20 @@ low supply cause internal chaos as to who should be eligiblie. I stepped in to p
 
 1. set expectations / explain the reality:
 
-![Scope of RAT Requestor.jpg](Scope_of_RAT_Requestor.jpg)
+![Scope of RAT Requestor.webp](Scope_of_RAT_Requestor.webp)
 
-![Untitled](Untitled%204.png)
+![Untitled](Untitled%204.webp)
 
 1. help them determine eligiblity pathways:
 
-![Circular swimlane decision tree, triage diagram.png](Circular_swimlane_decision_tree_triage_diagram.png)
+![Circular swimlane decision tree, triage diagram.webp](Circular_swimlane_decision_tree_triage_diagram.webp)
 
 ### Being recognised for my work
 
-![Ailee Delta outbreak kudos.png](Ailee_Delta_outbreak_kudos.png)
+![Ailee Delta outbreak kudos.webp](Ailee_Delta_outbreak_kudos.webp)
 
-![Me getting called a legend over and over during RATs Ordering - Omikron outbreak.png](Me_getting_called_a_legend_over_and_over_during_RATs_Ordering_-_Omikron_outbreak.png)
+![Me getting called a legend over and over during RATs Ordering - Omikron outbreak.webp](Me_getting_called_a_legend_over_and_over_during_RATs_Ordering_-_Omikron_outbreak.webp)
 
-![Amanda Vessels design session kudos.jpg](Amanda_Vessels_design_session_kudos.jpg)
+![Amanda Vessels design session kudos.webp](Amanda_Vessels_design_session_kudos.webp)
 
-![image.png](image.png)
+![image.webp](image.webp)

@@ -11,7 +11,7 @@ June 2025
 
 TrapScan is a proven solution to scale New Zealand’s predator-free movement through a unique QR card system that simplifies volunteer onboarding, boosts engagement, and streamlines data for conservation groups. After a 4-year pilot involving Wellington City Council and Predator Free NZ Trust, TrapScan supports over **500 volunteers** across **1,000+ traps**, and has logged over **5,000 scans**. With seed funding depleted, your investment will sustain operations, and help scale to more conservation volunteers across the country who desperately need the help this technology provides.
 
-![scann.jpg](2a6a111e-9727-49fb-98c0-f7b9b5eb6e50.png)
+![scann.webp](2a6a111e-9727-49fb-98c0-f7b9b5eb6e50.webp)
 
 ## Why Invest Now?
 
@@ -29,13 +29,13 @@ Trap.NZ is the only other existing solution, but is designed for advanced users 
 
 ### Addressable Market
 
-![image.png](image.png)
+![image.webp](image.webp)
 
 ## TrapScan Adoption Map
 
 TrapScan has interest from all over the country, but currently only serves 0.1% of the projects Trap.NZ does. This shows there is plenty of room to grow.
 
-![TrapScan distribution map June 2025.jpg](TrapScan_distribution_map_June_2025.jpg)
+![TrapScan distribution map June 2025.webp](TrapScan_distribution_map_June_2025.webp)
 
 ## Problems TrapScan Solves
 
@@ -53,7 +53,7 @@ TrapScan has interest from all over the country, but currently only serves 0.1% 
 4. **Engaging Feedback**: Real-time stats and charts show impact, improving engagement and retention - it makes volunteers feel part of something bigger.
 5. **Strong Funding Reports**: Complete and high quality data boosts funding success for projects. 
 
-![Stats mockup.JPG](dff32553-7b69-49cd-b512-bf2d2c7ff010.png)
+![Stats mockup.webp](dff32553-7b69-49cd-b512-bf2d2c7ff010.webp)
 
 A short [TrapScan product overview video](https://www.youtube.com/watch?v=Gk8rcPV3u6Q) is available on YouTube.
 
@@ -63,7 +63,7 @@ A short [TrapScan product overview video](https://www.youtube.com/watch?v=Gk8rcP
 
 **TrapScan** integrates seamlessly with [Trap.NZ](http://trap.nz/), saving all trap check data directly to the national database. Existing projects and traps can be easily imported, enabling fast, frictionless onboarding.
 
-![image.png](56d0aadb-955d-4541-bbf7-6b21a3af9532.png)
+![image.webp](56d0aadb-955d-4541-bbf7-6b21a3af9532.webp)
 
 This ensures all trapping data ends up in the same place, regardless of which app is used. Projects can switch between tools without risking data loss or dealing with complex migrations.
 
@@ -146,7 +146,7 @@ By email: kurtis@trapscan.app
 
 Attention: Kurtis Papple
 
-![image.png](image%201.png)
+![image.webp](image%201.webp)
 
 Springtimesoft Consulting Ltd
 PO Box (redacted)
@@ -220,7 +220,7 @@ Managing backyard trapping projects requires far more work to be successful than
 
 Below is an overview of all the types of work they do:
 
-![image.png](image%202.png)
+![image.webp](image%202.webp)
 
 ---
 

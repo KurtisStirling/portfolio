@@ -13,7 +13,7 @@ With rapid growth post COVID-19, Health NZ was struggling to organise itself eff
 
 Customer Supplier model:
 
-![Untitled](Untitled.png)
+![Untitled](Untitled.webp)
 
 ## NZPS API team
 

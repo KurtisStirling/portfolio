@@ -21,13 +21,13 @@ Clarity and alignment was what they needed, so I rapidly iterated on current and
 
 Now New Zealand is more ready than ever to handle an outbreak of anything, not just COVID-19, and for a fraction of the cost.
 
-![The Architecture Diagram I drew that kept us sane (real system names redacted)](Outbreak_Response_Service.jpg)
+![The Architecture Diagram I drew that kept us sane (real system names redacted)](Outbreak_Response_Service.webp)
 
 The Architecture Diagram I drew that kept us sane (real system names redacted)
 
 Bonus item; My Health Record now uses a new and improved webform that is a FHIR Questionnaire to capture RAT results. I am stoked at how many requirements we elegantly fit into a single form.
 
-![Results screen logic; talk about personalised advice.](image.png)
+![Results screen logic; talk about personalised advice.](image.webp)
 
 Results screen logic; talk about personalised advice.
 
@@ -35,13 +35,13 @@ Results screen logic; talk about personalised advice.
 
 I was then referred internally to lead a brand new amazing team of 11 in the ambitious New Zealand patient summary project. We had a short time to deliver an integrated product of 6+ systems, plus an entirely new application to surface a composite API to clinicians.
 
-![The multiple ways the shared health record patient summary would be accessed.](image%201.png)
+![The multiple ways the shared health record patient summary would be accessed.](image%201.webp)
 
 The multiple ways the shared health record patient summary would be accessed.
 
 Early on we conducted a 2 day workshop which I facilitated. There was so much energy and enthusiasm. After the sessions we had a lot of clarity on requirements, motivation (and pressure!).
 
-![Team mate and I planning the day ahead.](1727759818018.jpg)
+![Team mate and I planning the day ahead.](1727759818018.webp)
 
 Team mate and I planning the day ahead.
 
@@ -65,7 +65,7 @@ With NZ Patient Summary paused, we were now open to serve another use case. The 
 
 An awesome initiative that is proactive avoiding both the unneccessary visits to ED *and* patients waiting too late for intervention to be effective. This would save time and lives.
 
-![1727759818417.png](1727759818417.png)
+![1727759818417.webp](1727759818417.webp)
 
 The data was landing in the FHIR Server but their clinicians had no way to view it. Our application was perfect for this; they could reuse the authentication, patient selection and overview features, and add their care plan list and observation chart features on top, all while enjoying the shared security and UI components our application offers.
 
@@ -81,7 +81,7 @@ I had a vision for what could be, and enough Figma skill to pull it off; we need
 
 This was a big move, one that would need some very high up approval. I needed to articulate the argument well and go through the process properly. So, I did the analysis:
 
-![UI Library options analysis](image%202.png)
+![UI Library options analysis](image%202.webp)
 
 UI Library options analysis
 
@@ -89,33 +89,33 @@ After fielding a few concerns from the collective of GMs that formed the design 
 
 I worked voluntary overtime to get the components made and page templates created, because the sooner those were ready the sooner the developers could get to work. *I care a lot about this and enjoy the process, so the extra time is worth it,* I thought.
 
-![Components I made in Figma](image%203.png)
+![Components I made in Figma](image%203.webp)
 
 Components I made in Figma
 
-![UI Min-Maxxing; the result of deep thinking on how to fit the maximum amount of current and future requirements into the minimum amount of space.](image%204.png)
+![UI Min-Maxxing; the result of deep thinking on how to fit the maximum amount of current and future requirements into the minimum amount of space.](image%204.webp)
 
 UI Min-Maxxing; the result of deep thinking on how to fit the maximum amount of current and future requirements into the minimum amount of space.
 
-![Utilising the amazing new Variables feature in Figma to manage primatives. I then converted this to CSS for developers to implement verbatum in code.](image%205.png)
+![Utilising the amazing new Variables feature in Figma to manage primatives. I then converted this to CSS for developers to implement verbatum in code.](image%205.webp)
 
 Utilising the amazing new Variables feature in Figma to manage primatives. I then converted this to CSS for developers to implement verbatum in code.
 
 In just 3 weeks I had redesigned the entire application and we made a lot of improvements as we went, the developers got the designs into code very rapidly too as Shadcn’s “copy our component into your own code” style made implementation easy (also, they are just awesome devs)
 
-![Upgraded patient search page utilising Shadcn's Data Table component](image%206.png)
+![Upgraded patient search page utilising Shadcn's Data Table component](image%206.webp)
 
 Upgraded patient search page utilising Shadcn's Data Table component
 
-![Patient Overview page utiling mini charts for observations](image%207.png)
+![Patient Overview page utiling mini charts for observations](image%207.webp)
 
 Patient Overview page utiling mini charts for observations
 
-![Charts!](image%208.png)
+![Charts!](image%208.webp)
 
 Charts!
 
-![and Dark mode!](image%209.png)
+![and Dark mode!](image%209.webp)
 
 and Dark mode!
 

@@ -10,47 +10,47 @@ In the news:
 
 ### Business Modeling
 
-![image.png](assessment-scoring-conceptual-erd.png)
+![image.webp](assessment-scoring-conceptual-erd.webp)
 
-![image.png](assessment-object-workflow.png)
+![image.webp](assessment-object-workflow.webp)
 
 ### High level options analysis
 
-![image.png](marking-state-comparison-current-vs-ats-vs-rma.png)
+![image.webp](marking-state-comparison-current-vs-ats-vs-rma.webp)
 
-![image.png](scenario-b-may-2025-roadmap.png)
+![image.webp](scenario-b-may-2025-roadmap.webp)
 
 ### High level AI Marking Quality Assurance
 
-![image.png](ai-marking-pipeline-dual-ai-human-check.png)
+![image.webp](ai-marking-pipeline-dual-ai-human-check.webp)
 
 ### Data flow diagramming
 
-![image.png](plan-a-ats-integration-architecture.png)
+![image.webp](plan-a-ats-integration-architecture.webp)
 
-![image.png](end-to-end-marking-process-swimlane.png)
+![image.webp](end-to-end-marking-process-swimlane.webp)
 
 ### Marker Capacity Forecasting Tool
 
-![image.png](marking-capacity-planning-spreadsheet.png)
+![image.webp](marking-capacity-planning-spreadsheet.webp)
 
 ### Tracking Human marking progress
 
-![image.png](literacy-writing-human-marking-burndown.png)
+![image.webp](literacy-writing-human-marking-burndown.webp)
 
 ### Articulating reliability of AI over humans
 
-![image.png](marking-time-pressure-graph.png)
+![image.webp](marking-time-pressure-graph.webp)
 
-![image.png](ai-vs-human-accuracy-under-pressure.png)
+![image.webp](ai-vs-human-accuracy-under-pressure.webp)
 
-![image.png](net-accuracy-gain-curve-human-remarking.png)
+![image.webp](net-accuracy-gain-curve-human-remarking.webp)
 
 ### Post AI-marking analysis
 
-![image.png](pass-fail-agreement-unreliability-analysis.png)
+![image.webp](pass-fail-agreement-unreliability-analysis.webp)
 
-![image.png](score-distribution-and-agreement-rate.png)
+![image.webp](score-distribution-and-agreement-rate.webp)
 
 # SQL Metrics Calculations for AI Performance Assessment
 

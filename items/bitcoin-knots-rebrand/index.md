@@ -5,38 +5,38 @@ title: "Bitcoin Knots Re-Branding"
 
 # Bitcoin Knots Re-Branding
 
-![Current.png](Current.png)
+![Current.webp](Current.webp)
 
-![Re-brand.png](Re-brand.png)
+![Re-brand.webp](Re-brand.webp)
 
 ### Stage 1: Exploitative Options
 
 shared with Bitcoin Knots discord for discussion (~200 people)
 
-![1) Explorative options.png](explorative-options.png)
+![1) Explorative options.webp](explorative-options.webp)
 
 ### Stage 2: Social Media Poll on X:
 
-![image.png](twitter-logo-options-poll.png)
+![image.webp](twitter-logo-options-poll.webp)
 
 ### Stage 3: More discussion and voting in the Discord
 
-![image.png](discord-voting-round-2.png)
+![image.webp](discord-voting-round-2.webp)
 
 ### Stage 4: refinements, more discussion and creation of brand kit:
 
 [GitHub - KurtisStirling/Bitcoin-Knots-Brand: Brand assets for Bitcoin Knots](https://github.com/KurtisStirling/Bitcoin-Knots-Brand/tree/main)
 
-![image.png](brand-guidelines-style-guide.png)
+![image.webp](brand-guidelines-style-guide.webp)
 
 ### Stage 5: Adoption
 
-![image.png](application-splash-screen.png)
+![image.webp](application-splash-screen.webp)
 
-![image.png](windows-installer-screenshot.png)
+![image.webp](windows-installer-screenshot.webp)
 
-![image.png](official-twitter-release-announcement.png)
+![image.webp](official-twitter-release-announcement.webp)
 
-![image.png](merch-hat-product-page.png)
+![image.webp](merch-hat-product-page.webp)
 
-![image.png](fan-art-tweet-monk-logo.png)
+![image.webp](fan-art-tweet-monk-logo.webp)

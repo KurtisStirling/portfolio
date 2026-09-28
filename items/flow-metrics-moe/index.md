@@ -22,7 +22,7 @@ Below are some examples of what I implemented to address these problems:
 
 Programme Manager view to see where work is at and what leads are assigned:
 
-![Untitled](Untitled.png)
+![Untitled](Untitled.webp)
 
 - 3 levels of issue hierarchy used (Feature > Epic > Story) to manage the multiple workstreams and to provide traceability from the individual code changes, all the way up to the Roadmap approaved by business.
 - Custom `Analysis`, `Design`, `Dev`, `Test` and `Release` fields that count the amount of stories in each status group, for a given Epic. This was in response from a request to the Vendor’s Lead Consultant, who wanted to keep a close eye on all work to ensure nothing was sitting idle for too long.
@@ -31,13 +31,13 @@ Programme Manager view to see where work is at and what leads are assigned:
 
 One per week I would export a Jira JQL filter and drop the CSV into this Excel sheet. The flow metrics below would be updated and I would share them with each respective team (there were four). Holding up the mirror like this was very enlightening to the teams and to management. It was an effective tool at changing behaviours for the better (focusing more on finishing, than on starting everything).
 
-![Untitled](Untitled%201.png)
+![Untitled](Untitled%201.webp)
 
 I have this Excel template saved so I can reuse it in any organisation.
 
 ### Training material: Status groups, “In progress” vs “waiting” statuses and Flag use
 
-![Untitled](Untitled%202.png)
+![Untitled](Untitled%202.webp)
 
 ### Issues type use guide:
 
@@ -62,10 +62,10 @@ I have this Excel template saved so I can reuse it in any organisation.
 
 ### Automation created to calculate the the amount of stories in each status group, for a given Epic:
 
-![Untitled](Untitled%203.png)
+![Untitled](Untitled%203.webp)
 
-![Untitled](Untitled%204.png)
+![Untitled](Untitled%204.webp)
 
-![Untitled](Untitled%205.png)
+![Untitled](Untitled%205.webp)
 
-![Untitled](Untitled%206.png)
+![Untitled](Untitled%206.webp)
