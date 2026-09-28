@@ -1,0 +1,8 @@
+title: Kurtis Papple Portfolio
+description: Product management, design and delivery work by Kurtis Papple.
+url: https://kurtisstirling.github.io
+baseurl: /portfolio
+markdown: kramdown
+permalink: pretty
+exclude:
+  - README.md
